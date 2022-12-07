@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .slide-1 {
     background-image: url('../img/corey-serravite-ZGl6tVnOAuY-unsplash.jpg');
     background-position: center;
@@ -33,3 +34,18 @@
     height: 80vh;
     width:100%;
 }
+=======
+.carousel {
+    height: 100%;
+    width:100%;
+}
+
+.slide-1-image {
+    background-image: url('../img/corey-serravite-ZGl6tVnOAuY-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+    width:100%;
+}
+>>>>>>> 2c2cd52e75846a9206a154b529c6464b8ced8a94
