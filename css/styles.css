@@ -1,3 +1,13 @@
 .carousel {
+    height: 100%;
+    width:100%;
+}
+
+.slide-1-image {
+    background-image: url('../img/corey-serravite-ZGl6tVnOAuY-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
     height: 100vh;
+    width:100%;
 }
