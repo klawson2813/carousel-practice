@@ -1,3 +1,35 @@
-.carousel {
-    height: 250px;
+.slide-1 {
+    background-image: url('../img/corey-serravite-ZGl6tVnOAuY-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width:100%;
+}
+.slide-2 {
+    background-image: url('../img/eberhard-grossgasteiger-_Yzf4uoUALc-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width:100%;
+}
+.slide-3 {
+    background-image: url('../img/enrico-bizzotto-xhHmJCVjJ60-unsplash.jpg');
+    background-position: bottom;
+    background-size: cover;
+    height: 80vh;
+    width:100%;
+}
+.slide-4 {
+    background-image: url('../img/iuliu-illes-xKhNjo7MceI-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width:100%;
+}
+.slide-5 {
+    background-image: url('../img/martin-bennie-oJxoDn1NfZQ-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width:100%;
 }
